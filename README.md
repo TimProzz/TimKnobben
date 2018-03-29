@@ -12,5 +12,5 @@ A few notes for somebody importing the website:
   DB password   = ""
   Database name = "u29719p23510_tim1"
  
-* This site has a contact form that requires a Google reCAPTCHA key. 
+* This site has a contact form that requires a Google reCAPTCHA key (in templates/footer-template.php). 
 The key can be found/generated here: https://www.google.com/recaptcha/admin
